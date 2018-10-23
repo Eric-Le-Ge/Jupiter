@@ -1,1 +1,1 @@
-# Jupiter: a Ticketmaster-Event-Recommendation-System
+# Jupiter: a smart event recommendation system
